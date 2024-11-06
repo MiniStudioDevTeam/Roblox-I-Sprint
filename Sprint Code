@@ -1,0 +1,15 @@
+-- Code made by MiniStudioDevTeam
+local Configuration = {}
+
+Configuration.RunKey = Enum.KeyCode.LeftShift -- Change this to your key
+
+Configuration.WalkSpeed = 16 -- Change this to any number that players will walk with out hitting the sprint key
+Configuration.RunSpeed = 25 -- Change this to any number for the speed you want someone to run when holding sprint key
+
+Configuration.WalkFov = 70 -- Change this to anynumber you want someone when key is not hit and how narro you want the screen to be
+Configuration.RunFov = 80 -- Change this to any number you want someone when they hit the sprint key and how narro you want the screen
+Configuration.TweenFovDuration = 0.2 -- How long it will take to change from the WalkFov to RunFov
+
+return Configuration
+
+-- Make this code in a folder that says "Hotkeys" 
