@@ -1,4 +1,6 @@
 -- Code made by MiniStudioDevTeam
+    -- DO NOT CHANGE ANYTHING IF YOU DONT KNOW WHAT YOU ARE DOING!!!
+
 local Configuration = {}
 
 Configuration.RunKey = Enum.KeyCode.LeftShift -- Change this to your key
